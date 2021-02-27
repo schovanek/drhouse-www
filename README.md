@@ -1,4 +1,4 @@
-# drhouse-www
+# Welcome on Dr. House WWW project
 
 # Netlify
 [Netlify home](https://app.netlify.com/teams/schovanek/overview)
