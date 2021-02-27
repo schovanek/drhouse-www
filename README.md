@@ -1,6 +1,6 @@
 # Welcome on Dr. House WWW project
 
-# Netlify
+# Netlify Hosting
 [Netlify home](https://app.netlify.com/teams/schovanek/overview)
 
 # Netlify Status
