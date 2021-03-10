@@ -8,4 +8,4 @@
 
 ![alt text](./images/image1.png)
 
-<div style="text-align: right">Align Right</div>
+<div style="text-align: center">Align Right</div>
